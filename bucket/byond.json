@@ -48,6 +48,5 @@
     },
     "autoupdate": {
         "url": "https://www.byond.com/download/build/$majorVersion/$version_byond.zip"
-    },
-    "installer_success_codes": [0, 1223, 50944]
+    }
 }
